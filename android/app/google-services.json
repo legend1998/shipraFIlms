@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575178156386",
+    "project_id": "shiprafilms-72e5c",
+    "storage_bucket": "shiprafilms-72e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575178156386:android:a26847f0fa4edb87aca43b",
+        "android_client_info": {
+          "package_name": "com.example.shiprafilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575178156386-juvadvcpqhluid80nelafilja5k4jpod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCmxYR3iGbX-bLk4gEn1vmlAKQhlFckpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575178156386-juvadvcpqhluid80nelafilja5k4jpod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
